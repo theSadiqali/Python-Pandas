@@ -1,0 +1,6 @@
+Collecting packaging
+  Downloading packaging-24.0-py3-none-any.whl.metadata (3.2 kB)
+Downloading packaging-24.0-py3-none-any.whl (53 kB)
+   ---------------------------------------- 53.5/53.5 kB 138.6 kB/s eta 0:00:00
+Installing collected packages: packaging
+Successfully installed packaging-24.0
